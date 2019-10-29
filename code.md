@@ -15,3 +15,16 @@ Configure git:
 
 `git config --global user.email "your@email"`
 
+
+Checking git status:
+
+`git status`
+
+
+Creating a repository (repo):
+
+`mkdir hello-world`
+
+`cd hello-world`
+
+`git init`
