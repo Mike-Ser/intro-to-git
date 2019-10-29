@@ -28,3 +28,24 @@ Creating a repository (repo):
 `cd hello-world`
 
 `git init`
+
+
+Adding and committing files
+
+`touch index.md`
+
+`git status`
+
+`git add index.md`
+
+`git status`
+
+`vim index.md`
+
+`# Hello, world!`
+
+`:wq`
+
+`git add index.md`
+
+`git commit -m 'Add index.md'`
