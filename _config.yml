@@ -1,3 +1,5 @@
 # Build settings
-theme: jekyll-theme-hacker
+markdown: kramdown
+theme: minima
+plugins:
   - jekyll-feed
